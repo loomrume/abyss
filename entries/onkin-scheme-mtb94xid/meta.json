@@ -1,0 +1,21 @@
+{
+  "description": "circle mirrors with spiral light traces",
+  "githubLogin": "onkin",
+  "kindCounts": {
+    "mirror": 2,
+    "lightSource": 1
+  },
+  "kinds": [
+    "lightSource",
+    "mirror"
+  ],
+  "stats": {
+    "elements": 3,
+    "groups": 1,
+    "paths": 375,
+    "segments": 16316,
+    "sources": 1
+  },
+  "submittedAt": "2026-08-27T08:19:32.389Z",
+  "title": "Без названия"
+}
