@@ -1,0 +1,22 @@
+{
+  "description": "change canvas",
+  "githubLogin": "onkin",
+  "kindCounts": {
+    "mirror": 2,
+    "lightSource": 1
+  },
+  "kinds": [
+    "lightSource",
+    "mirror"
+  ],
+  "sceneId": "savaudpd",
+  "stats": {
+    "elements": 3,
+    "groups": 1,
+    "paths": 375,
+    "segments": 9110,
+    "sources": 1
+  },
+  "submittedAt": "2026-08-27T09:04:50.575Z",
+  "title": "Light Spiral"
+}
