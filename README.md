@@ -23,3 +23,7 @@ Each merged entry is a public scheme. Opening one in Studio fetches this JSON; L
 ## License
 
 Schemes you submit are offered under [CC BY 4.0](LICENSE). Keep secrets out of `scene.json`.
+
+## Issues
+
+Issues are disabled on this repository. Product support, bugs, and features live in [loomrume/lantern](https://github.com/loomrume/lantern). (Repo Settings → Features → Issues, unchecked.)
