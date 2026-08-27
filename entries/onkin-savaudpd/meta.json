@@ -1,5 +1,5 @@
 {
-  "description": "change canvas",
+  "description": "Mirrors all around, spiral-shaped light",
   "githubLogin": "onkin",
   "kindCounts": {
     "mirror": 2,
@@ -17,6 +17,6 @@
     "segments": 9110,
     "sources": 1
   },
-  "submittedAt": "2026-08-27T09:04:50.575Z",
+  "submittedAt": "2026-08-27T13:25:24.904Z",
   "title": "Light Spiral"
 }
