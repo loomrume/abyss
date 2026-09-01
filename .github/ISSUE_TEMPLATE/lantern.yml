@@ -1,0 +1,11 @@
+name: Go to lantern
+description: Issues are not used here. Product support lives in lantern.
+title: "[Please use lantern]"
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Issues are disabled on **abyss**. This repository only accepts scheme pull requests.
+
+        Open a ticket on [loomrume/lantern](https://github.com/loomrume/lantern/issues/new/choose).

@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Product support, bugs, and features
+    url: https://github.com/loomrume/lantern/issues/new/choose
+    about: This repository is scheme submissions only. Open tickets on lantern.
+  - name: Submit a scheme
+    url: https://github.com/loomrume/abyss/compare
+    about: Pull requests add entries under entries/<slug>/.
