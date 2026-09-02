@@ -2,10 +2,10 @@
   "description": "Experiment showing how a Fresnel lens in a lighthouse works to collimate light from a lamp into a parallel beam. The Fresnel lens, invented in 1822 by Augustin-Jean Fresnel, increased the light projecting power of lighthouses greatly without the weight of a conventional lens of its size. Also shown are mirror strips mounted above and below the lens that most lighthouses had, to gather more of the lamp's light.",
   "githubLogin": "onkin",
   "kindCounts": {
-    "lightSource": 2,
     "glass": 1,
     "mirror": 8,
-    "wall": 2
+    "wall": 2,
+    "lightSource": 1
   },
   "kinds": [
     "glass",
@@ -15,12 +15,12 @@
   ],
   "sceneId": "j2v8nmis",
   "stats": {
-    "elements": 13,
-    "groups": 1,
-    "paths": 330,
-    "segments": 870,
-    "sources": 2
+    "elements": 12,
+    "groups": 0,
+    "paths": 115,
+    "segments": 305,
+    "sources": 1
   },
-  "submittedAt": "2026-09-01T11:36:37.404Z",
+  "submittedAt": "2026-09-02T21:48:03.862Z",
   "title": "Lighthouse"
 }
