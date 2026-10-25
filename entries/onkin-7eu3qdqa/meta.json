@@ -1,0 +1,24 @@
+{
+  "description": "A schematic recreation of the green flash at sunset. As sunlight skims Earth’s atmosphere, refraction and dispersion bend each color by a slightly different amount. For a brief moment, the observer receives a narrow green component after the rest of the Sun has slipped below the horizon. The geometry is intentionally not to scale.",
+  "githubLogin": "onkin",
+  "kindCounts": {
+    "glass": 3,
+    "lightSource": 1,
+    "meter": 1
+  },
+  "kinds": [
+    "glass",
+    "lightSource",
+    "meter"
+  ],
+  "sceneId": "7eu3qdqa",
+  "stats": {
+    "elements": 10,
+    "groups": 0,
+    "paths": 15,
+    "segments": 518,
+    "sources": 1
+  },
+  "submittedAt": "2026-10-25T19:17:41.558Z",
+  "title": "Green Flash"
+}
