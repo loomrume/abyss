@@ -4,24 +4,26 @@
   "kindCounts": {
     "glass": 1,
     "mirror": 8,
-    "wall": 2,
-    "lightSource": 1
+    "wall": 1,
+    "lightSource": 1,
+    "meter": 1
   },
   "kinds": [
     "glass",
     "lightSource",
+    "meter",
     "mirror",
     "wall"
   ],
-  "sceneId": "j2v8nmis",
+  "sceneId": "ghv9lg5r",
   "slug": "lighthouse",
   "stats": {
     "elements": 12,
     "groups": 0,
-    "paths": 115,
-    "segments": 305,
+    "paths": 1200,
+    "segments": 3135,
     "sources": 1
   },
-  "submittedAt": "2026-09-02T21:48:03.862Z",
+  "submittedAt": "2026-10-26T02:56:11.497Z",
   "title": "Lighthouse"
 }
