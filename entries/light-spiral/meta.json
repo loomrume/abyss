@@ -1,0 +1,23 @@
+{
+  "description": "This scene simulates how a black hole bends light using a medium whose refractive index increases sharply toward the center. As the rays pass through this gradient, their paths curve inward—an optical analogue of gravitational lensing. Reflections from the large circular mirror send the light back through the field, creating a luminous spiral around the simulated black hole.",
+  "githubLogin": "onkin",
+  "kindCounts": {
+    "medium": 1,
+    "lightSource": 1
+  },
+  "kinds": [
+    "lightSource",
+    "medium"
+  ],
+  "sceneId": "990fwhri",
+  "slug": "light-spiral",
+  "stats": {
+    "elements": 2,
+    "groups": 0,
+    "paths": 100,
+    "segments": 11177,
+    "sources": 1
+  },
+  "submittedAt": "2026-10-26T17:21:17.496Z",
+  "title": "Light Spiral"
+}
