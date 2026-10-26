@@ -1,6 +1,6 @@
 [
   "absorber",
-  "blob",
+  "bulk",
   "crystal",
   "doubler",
   "diffuser",
@@ -11,6 +11,7 @@
   "info",
   "lightSource",
   "lens",
+  "medium",
   "meter",
   "mirror",
   "note",
