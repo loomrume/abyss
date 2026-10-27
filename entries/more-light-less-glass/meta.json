@@ -1,0 +1,27 @@
+{
+  "description": "A lighthouse lens had to collect a wide cone of light and send it toward the horizon. At this scale, a conventional lens would require a massive thickness of glass. That meant greater weight, difficult manufacturing, and a long optical path through the imperfect, often tinted glass of the early nineteenth century—losing precious light to absorption.\n\nA Fresnel lens preserves the refracting surfaces while removing most of the glass between them. Its stepped sections produce nearly the same beam with far less material, allowing more light to escape while making the apparatus lighter and practical to build and rotate.\n\nAugustin-Jean Fresnel’s first lighthouse lens entered service at Cordouan, France, in 1823. It transformed lighthouse optics and was soon adopted around the world.",
+  "githubLogin": "onkin",
+  "kindCounts": {
+    "lightSource": 2,
+    "glass": 2,
+    "meter": 2,
+    "note": 1
+  },
+  "kinds": [
+    "glass",
+    "lightSource",
+    "meter",
+    "note"
+  ],
+  "sceneId": "uqe2ivyt",
+  "slug": "more-light-less-glass",
+  "stats": {
+    "elements": 7,
+    "groups": 0,
+    "paths": 300,
+    "segments": 900,
+    "sources": 2
+  },
+  "submittedAt": "2026-10-27T01:27:37.801Z",
+  "title": "Why Fresnel Lens"
+}
