@@ -1,0 +1,23 @@
+{
+  "description": "The Quad-Focus experiment is a beautiful optical resonator where light is trapped in an endless geometric loop. In physics, a resonator is a system of mirrors designed to bounce light back and forth, and this unique setup forms the ultimate light trap using four synchronized walls.\nIn the absolute center of this four-walled room sits a single light source. This point is unique because it serves as the exact mathematical focus for all four curved mirrors surrounding it, creating a perfect quad-focus system. Because of this symmetry, a fascinating phenomenon occurs every time a beam of light leaves the center.\nWhen a light ray strikes the first curved wall, the parabolic shape straightens it out completely, turning the spreading light into a perfectly straight beam that shoots across the room. When this straight beam hits the opposite wall, the mirror does the exact reverse, catching the parallel lines and focusing them precisely back into the center point.\nAfter exactly two reflections, every single photon returns right back to where it started to begin the cycle again. If you shift the lamp even a tiny bit off-center, you will break the resonator's perfect focus and watch this orderly loop collapse into a beautiful, chaotic web of light.",
+  "githubLogin": "onkin",
+  "kindCounts": {
+    "medium": 1,
+    "lightSource": 1
+  },
+  "kinds": [
+    "lightSource",
+    "medium"
+  ],
+  "sceneId": "h96p52wv",
+  "slug": "quad-focus",
+  "stats": {
+    "elements": 2,
+    "groups": 0,
+    "paths": 4,
+    "segments": 32,
+    "sources": 1
+  },
+  "submittedAt": "2026-10-28T16:06:57.108Z",
+  "title": "Quad-Focus"
+}
