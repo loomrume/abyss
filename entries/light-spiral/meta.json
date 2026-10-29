@@ -9,15 +9,15 @@
     "lightSource",
     "medium"
   ],
-  "sceneId": "990fwhri",
+  "sceneId": "m4pelnxs",
   "slug": "light-spiral",
   "stats": {
     "elements": 2,
     "groups": 0,
-    "paths": 100,
-    "segments": 11177,
+    "paths": 80,
+    "segments": 33631,
     "sources": 1
   },
-  "submittedAt": "2026-10-26T17:21:17.496Z",
+  "submittedAt": "2026-10-29T01:08:05.333Z",
   "title": "Light Spiral"
 }
