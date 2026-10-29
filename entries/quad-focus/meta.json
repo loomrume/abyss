@@ -9,15 +9,15 @@
     "lightSource",
     "medium"
   ],
-  "sceneId": "h96p52wv",
+  "sceneId": "roe5mlnj",
   "slug": "quad-focus",
   "stats": {
     "elements": 2,
     "groups": 0,
     "paths": 4,
-    "segments": 32,
+    "segments": 112,
     "sources": 1
   },
-  "submittedAt": "2026-10-28T16:06:57.108Z",
+  "submittedAt": "2026-10-29T01:06:14.425Z",
   "title": "Quad-Focus"
 }
