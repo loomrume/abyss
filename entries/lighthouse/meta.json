@@ -20,10 +20,10 @@
   "stats": {
     "elements": 12,
     "groups": 0,
-    "paths": 3706,
-    "segments": 14940,
+    "paths": 1702,
+    "segments": 6871,
     "sources": 1
   },
-  "submittedAt": "2026-10-29T01:06:56.562Z",
+  "submittedAt": "2026-10-29T01:20:41.915Z",
   "title": "Lighthouse"
 }
