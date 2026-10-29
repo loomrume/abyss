@@ -15,15 +15,15 @@
     "mirror",
     "wall"
   ],
-  "sceneId": "ghv9lg5r",
+  "sceneId": "cbjjv9b1",
   "slug": "lighthouse",
   "stats": {
     "elements": 12,
     "groups": 0,
-    "paths": 1200,
-    "segments": 3135,
+    "paths": 1702,
+    "segments": 6871,
     "sources": 1
   },
-  "submittedAt": "2026-10-26T03:00:55.153Z",
+  "submittedAt": "2026-10-29T01:20:41.915Z",
   "title": "Lighthouse"
 }
