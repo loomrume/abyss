@@ -13,15 +13,15 @@
     "meter",
     "note"
   ],
-  "sceneId": "uqe2ivyt",
+  "sceneId": "thdsnkhp",
   "slug": "more-light-less-glass",
   "stats": {
     "elements": 7,
     "groups": 0,
-    "paths": 300,
-    "segments": 900,
+    "paths": 1126,
+    "segments": 4188,
     "sources": 2
   },
-  "submittedAt": "2026-10-27T01:32:08.035Z",
+  "submittedAt": "2026-10-29T01:07:36.098Z",
   "title": "More Light, Less Glass"
 }
