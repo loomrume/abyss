@@ -1,0 +1,23 @@
+{
+  "description": "The Penrose Room experiment explores one of the most famous optical paradoxes in geometry, known as the illumination problem. For decades, mathematicians wondered if it was possible to design a closed room with mirrored walls such that a single light source, placed anywhere inside, would leave some regions completely in the dark. In 1958, mathematician Roger Penrose proved that it is possible by creating this exact shape.\n\nThe room uses a precise combination of straight lines and elliptical curves to manipulate the behavior of light. The curved parts are sections of ellipses that share the same focal points. Because of this mathematical structure, the light rays bouncing off the walls are continuously deflected away from specific zones, creating hidden pockets of shadow.\n\nNo matter where you place the light source in the main area, the light rays cannot break through the geometric blocks. They bounce around endlessly, lighting up most of the room, but the two side chambers always remain in absolute darkness. It serves as a mind-bending demonstration of how geometry can bend and trap light without using any solid obstacles.",
+  "githubLogin": "onkin",
+  "kindCounts": {
+    "lightSource": 1,
+    "medium": 1
+  },
+  "kinds": [
+    "lightSource",
+    "medium"
+  ],
+  "sceneId": "af3o8d1v",
+  "slug": "penrose-unilluminable-room",
+  "stats": {
+    "elements": 2,
+    "groups": 0,
+    "paths": 800,
+    "segments": 12447,
+    "sources": 1
+  },
+  "submittedAt": "2026-10-29T01:15:36.300Z",
+  "title": "Penrose Unilluminable Room"
+}
