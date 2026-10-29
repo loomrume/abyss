@@ -1,0 +1,29 @@
+{
+  "description": "The Prism Loop experiment demonstrates the principles of optical division and recombination using specialized prism components. At the heart of this setup are two dichroic cube beamsplitters, which are widely used in modern technology from projectors to scientific lasers to manipulate different wavelengths of light.\n\nAs light enters from the source on the left, it hits the first dichroic cube. This clever component acts like a color traffic controller, splitting the single oncoming beam into separate paths based on their properties. One component of the light is reflected upward into the top red loop, another is reflected downward into the bottom blue loop, while the remaining portion passes straight through the middle green path.\n\nAfter bouncing off ordinary flat mirrors to navigate the corners, all three separated pathways converge at the second dichroic cube on the right. This second cube does the exact reverse process of the first, catching the incoming split rays and seamlessly merging them back into a single unified beam that exits onto the screen. It is a perfect visual breakdown of how complex optical systems isolate, guide, and safely reunite light without losing its original structure.",
+  "githubLogin": "onkin",
+  "kindCounts": {
+    "lightSource": 1,
+    "glass": 8,
+    "mirror": 4,
+    "meter": 1,
+    "absorber": 1
+  },
+  "kinds": [
+    "absorber",
+    "glass",
+    "lightSource",
+    "meter",
+    "mirror"
+  ],
+  "sceneId": "pl2cwr54",
+  "slug": "dichroic-splitter",
+  "stats": {
+    "elements": 15,
+    "groups": 2,
+    "paths": 162,
+    "segments": 2454,
+    "sources": 1
+  },
+  "submittedAt": "2026-10-29T13:10:44.162Z",
+  "title": "Dichroic Splitter"
+}
