@@ -1,0 +1,29 @@
+{
+  "description": "The Pentaprism experiment demonstrates a five-sided reflecting prism used to deviate a beam of light by exactly ninety degrees without inverting or reversing the image. Invented in the 19th century, this component became a standard element in optical instrumentation and photographic equipment, most notably in the viewfinders of Single-Lens Reflex (SLR and DSLR) cameras.\n\nWhile two ordinary mirrors positioned at a 45-degree angle can also turn light by ninety degrees without inversion, they are highly sensitive to any misalignment. If the mirrors shift even a fraction of a millimeter due to vibration or temperature changes, the image becomes distorted. A pentaprism solves this mechanical vulnerability. Because it is a single, solid piece of glass with fixed, pre-manufactured angles, the 90-degree turn remains perfectly stable and accurate regardless of external movement.\n\nInside the prism, the light undergoes exactly two internal reflections. Since each reflection flips the image, the second bounce cancels out the inversion of the first. In this simulation, three parallel light rays enter from the bottom and exit to the right, maintaining their exact relative positions—blue remains on top, green in the middle, and red at the bottom. This allows camera viewfinders to display a correctly oriented, upright image to the photographer.",
+  "githubLogin": "onkin",
+  "kindCounts": {
+    "glass": 1,
+    "meter": 1,
+    "lightSource": 3,
+    "absorber": 1,
+    "note": 3
+  },
+  "kinds": [
+    "absorber",
+    "glass",
+    "lightSource",
+    "meter",
+    "note"
+  ],
+  "sceneId": "m0onfrmm",
+  "slug": "pentaprism",
+  "stats": {
+    "elements": 9,
+    "groups": 0,
+    "paths": 12,
+    "segments": 111,
+    "sources": 3
+  },
+  "submittedAt": "2026-10-30T19:16:58.864Z",
+  "title": "Pentaprism"
+}
