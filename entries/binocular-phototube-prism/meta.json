@@ -1,0 +1,27 @@
+{
+  "description": "Beamsplitter of binocular phototube (trinocular tube) of a microscope",
+  "githubLogin": "MicroscopySpecialist",
+  "kindCounts": {
+    "lightSource": 1,
+    "prism": 2,
+    "note": 2,
+    "meter": 1
+  },
+  "kinds": [
+    "lightSource",
+    "meter",
+    "note",
+    "prism"
+  ],
+  "sceneId": "t780t0g7",
+  "slug": "binocular-phototube-prism",
+  "stats": {
+    "elements": 6,
+    "groups": 0,
+    "paths": 420,
+    "segments": 1890,
+    "sources": 1
+  },
+  "submittedAt": "2026-10-29T17:38:51.614Z",
+  "title": "Binocular phototube prism"
+}
