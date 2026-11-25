@@ -1,0 +1,25 @@
+{
+  "description": "By combining red, green, and blue light sources, we can create white light and a variety of colors. When an object blocks some of these light sources, colorful shadows appear on the screen. This simple experiment demonstrates additive color mixing (RGB) and how different colors of light interact.",
+  "githubLogin": "MicroscopySpecialist",
+  "kindCounts": {
+    "lightSource": 3,
+    "bulk": 1,
+    "wall": 1
+  },
+  "kinds": [
+    "bulk",
+    "lightSource",
+    "wall"
+  ],
+  "sceneId": "jdmp4obr",
+  "slug": "colored-shadows",
+  "stats": {
+    "elements": 5,
+    "groups": 0,
+    "paths": 3000,
+    "segments": 3000,
+    "sources": 3
+  },
+  "submittedAt": "2026-11-25T08:24:32.348Z",
+  "title": "Shared · Untitled"
+}
